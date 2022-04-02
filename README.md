@@ -1,3 +1,11 @@
+# Patika Dev Web3 Fundamentals - Build and deploy a smart contract to NEAR protocol blockchain
+
+<p align= "center">
+<img width="475" alt="Ekran Resmi 2022-03-29 22 52 08" src="https://user-images.githubusercontent.com/69525712/160699163-c27a78d2-fcdf-4785-b16f-36b5b2319f5f.png">
+</p>
+
+
+
 # `near-sdk-as` Starter Kit
 
 This is a good project to use as a starting point for your AssemblyScript project.
