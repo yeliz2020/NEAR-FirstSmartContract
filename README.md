@@ -169,3 +169,4 @@ Please note that, in order to create the AssemblyScript and tests folder structu
 ./assembly/tests/as-pect.d.ts
 ```
 # NEAR-FirstSmartContract
+# Patika-NEAR-Developer-Course-Practice-I
