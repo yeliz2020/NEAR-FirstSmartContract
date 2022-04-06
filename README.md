@@ -1,3 +1,10 @@
+# Patika Dev NEAR Developer Course Practice I
+
+<img width="884" alt="HelloWorld" src="https://user-images.githubusercontent.com/69525712/161974216-77f3e005-c80d-4847-8f08-cb1b0934c31f.png">
+
+
+
+
 # Patika Dev Web3 Fundamentals - Build and deploy a smart contract to NEAR protocol blockchain
 
 <p align= "center">
