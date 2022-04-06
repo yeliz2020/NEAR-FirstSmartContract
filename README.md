@@ -1,7 +1,14 @@
+# NEAR Developer Course Practice II
+<p align= "center">
+<img width="832" alt="Ekran Resmi 2022-04-06 15 34 38" src="https://user-images.githubusercontent.com/69525712/161975872-d1f90f91-8c02-4510-b65a-8a0480cadd85.png">
+</p>
+
+
+
 # Patika Dev NEAR Developer Course Practice I
-
+<p align= "center">
 <img width="884" alt="HelloWorld" src="https://user-images.githubusercontent.com/69525712/161974216-77f3e005-c80d-4847-8f08-cb1b0934c31f.png">
-
+</p>
 
 
 
